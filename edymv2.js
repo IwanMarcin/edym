@@ -50,7 +50,7 @@ kasa = Number(kasa);
 roz = Number(roz);
 total = Number(total);
 
-roz = Math.round(2);
+roz = Math.round(roz);
 
 //Pobranie imienia
 let name = document.getElementById("name").value;
