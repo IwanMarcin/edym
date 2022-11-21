@@ -2,6 +2,10 @@
     position: relative;
     width: auto;
     height: auto;
-    left: 220px;
+    left: 350px;
     bottom: 920px;
+}
+
+#submit{
+    position: fixed;
 }
